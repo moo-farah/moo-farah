@@ -21,5 +21,6 @@
 - [Instagram](https://www.instagram.com/menslaw___/)
 
 <h2 align="left">:bar_chart: Github Stats</h2>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-farah &theme=radical&line_height=27&hide=glsl,python" alt="Mohamed's Github Stats" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-farah &theme=radical&line_height=27&hide=glsl,python" alt="Mohamed's Github Stats"/></p>
 <p align="left"><img  src="http://github-readme-streak-stats.herokuapp.com?user=moo-farah&theme=dark&background=141321" alt="Mohamed's Github Stats" /></p>
