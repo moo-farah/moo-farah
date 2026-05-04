@@ -16,7 +16,7 @@
 ⚽ Football · 🏀 Basketball · 💻 Code — equal parts sports fan and developer.
 
 ## Connect
-- Website: [(https://www.mohamedfarah.dev)
+- Website: [(https://www.mohamedfarah.dev)]
 - [LinkedIn](https://www.linkedin.com/in/mohamedfarah0/)
 - [Instagram](https://www.instagram.com/menslaw___/)
 
